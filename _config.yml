@@ -3,7 +3,7 @@ title: Daniel Crown
 email: danielcrown54@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am an economist with research interests are in the fields of regional and labor economics.
-baseurl: "https://github.com/daniel-crown-econ/daniel-crown.github.io" # the subpath of your site, e.g. /blog/
+#baseurl: "https://github.com/daniel-crown-econ/daniel-crown.github.io" # the subpath of your site, e.g. /blog/
 
 github_username:  daniel-crown-econ
 permalink: /blog/:year/:month/:title.html
